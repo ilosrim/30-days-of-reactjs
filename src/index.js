@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Lesson01 from './lesson-01/Lesson01';
+import Lesson2 from './lesson-02';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Lesson01 />
+    <Lesson2 />
   </React.StrictMode>,
   document.getElementById('root')
 );
